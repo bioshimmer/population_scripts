@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import os
 from Bio import SeqIO
 file_path = "plastome_assemble_results/"#这里填写组装结果目录
